@@ -1,3 +1,13 @@
+# Dear Future Nick
+
+* Check this out to /etc/chef
+* Install chef ```curl -L http://www.opscode.com/chef/install.sh | bash```
+* Run /opt/chef/bin/chef-solo
+
+
+
+# Original README
+
 This is a Chef repository for the roles, cookbooks and data bags that
 I use for configuring my workstations. I maintain this in my free
 time. Unsupported/unwarranteed disclaimers apply.
